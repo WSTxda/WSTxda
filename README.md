@@ -1,1 +1,1 @@
-![LoliCount](https://count.getloli.com/get/@WSTxda?theme=asoul)
+![LoliCount](https://count.getloli.com/get/@WSTxda?theme=rule34)
