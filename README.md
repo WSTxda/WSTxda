@@ -13,7 +13,7 @@
 </details>
 
 <details>
-  <summary>Software</summary>
+  <summary>Softwares</summary>
 ㅤ
   
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary>System</summary>
+  <summary>Systems</summary>
 ㅤ
   
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary>Hardware</summary>
+  <summary>Hardwares</summary>
 ㅤ
   
 ![HP](https://img.shields.io/badge/hp%20ultrasharp-0096D6?style=for-the-badge&logo=hp&logoColor=white)![AMD](https://img.shields.io/badge/AMD%20Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![Nvidia](https://img.shields.io/badge/NVIDIA%20RTX%203080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
