@@ -1,5 +1,7 @@
 ![LoliCount](https://count.getloli.com/get/@WSTxda?theme=rule34)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22jg2nzzjqglq2mzjqznopmba&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0c0c0c&interchange=true&bar_color=1ed760&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22jg2nzzjqglq2mzjqznopmba&redirect=true)
+
 ![Valorant](https://img.shields.io/badge/Valorant%20Radiant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)![Stack Overflow](https://img.shields.io/badge/-Stackoverflow%20Expert-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 <details>
