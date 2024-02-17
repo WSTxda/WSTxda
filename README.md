@@ -44,11 +44,10 @@
   <summary>Hardwares</summary>
 ㅤ
 
-![Samsung](https://img.shields.io/badge/Samsung%20Book%20S-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
   
-![HP](https://img.shields.io/badge/hp%20ultrasharp-0096D6?style=for-the-badge&logo=hp&logoColor=white)![AMD](https://img.shields.io/badge/AMD%20Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![Nvidia](https://img.shields.io/badge/NVIDIA%20RTX%203080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![HP](https://img.shields.io/badge/hp%20ultrasharp-0096D6?style=for-the-badge&logo=hp&logoColor=white)![AMD](https://img.shields.io/badge/AMD%20Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![Nvidia](https://img.shields.io/badge/NVIDIA%20RTX%204090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-![Apple](https://img.shields.io/badge/Apple%20iPad%20Air%205-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)![Xiaomi](https://img.shields.io/badge/Xiaomi%20POCO_F5-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)![Apple](https://img.shields.io/badge/iPhone%20XR-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Xiaomi](https://img.shields.io/badge/Xiaomi%20POCO_F5-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)![Apple](https://img.shields.io/badge/iPhone%20XR-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 </details>
 
