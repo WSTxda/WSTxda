@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=1ed760&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&redirect=true)
+﻿[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=1ed760&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&redirect=true)
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg) [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/WSTxda)
 
@@ -42,7 +42,7 @@
   <summary>Hardwares</summary>
 ㅤ
 
-[![Dell](https://img.shields.io/badge/dell%20ultrasharp-007DB8?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/) [![AMD](https://img.shields.io/badge/AMD%20Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/)[![NVidia](https://img.shields.io/badge/NVIDIA%20RTX%204090-7bbb08?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
+[![LG](https://img.shields.io/badge/lg%20ultragear-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)](https://www.lg.com/)[![Dell](https://img.shields.io/badge/dell%20ultrasharp-007DB8?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/) [![AMD](https://img.shields.io/badge/AMD%20Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/)[![NVidia](https://img.shields.io/badge/NVIDIA%20RTX%204090-7bbb08?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
 
 [![Xiaomi](https://img.shields.io/badge/Xiaomi%20POCO_F5-%23ff6e08.svg?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/) [![Apple](https://img.shields.io/badge/Apple%20iPhone%2013-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone/)
 
