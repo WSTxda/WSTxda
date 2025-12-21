@@ -30,7 +30,7 @@
   <summary>Systems</summary>
 ㅤ
 
-[![Android](https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Android](https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)[![Gnome](https://img.shields.io/badge/GNOME-080808.svg?style=for-the-badge&logo=GNOME&logoColor=white)](https://www.gnome.org/) [![Windows](https://img.shields.io/badge/Windows-0079d5?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
@@ -44,8 +44,6 @@
 
 [![LG](https://img.shields.io/badge/lg%20ultragear-a60031.svg?style=for-the-badge&logo=lg&logoColor=white)](https://www.lg.com/)[![Dell](https://img.shields.io/badge/dell%20ultrasharp-0076bb?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/) [![AMD](https://img.shields.io/badge/AMD%20Ryzen_9_5900X-black?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/)[![NVidia](https://img.shields.io/badge/NVIDIA%20RTX%204090-76b900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
 
-[![Apple](https://img.shields.io/badge/Apple%20iPhone%2013-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone/) [![Xiaomi](https://img.shields.io/badge/Xiaomi%20POCO_F5-%23ff6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/)
-
-[![Samsung](https://img.shields.io/badge/Samsung%20Tab_S10_FE-%231726a3.svg?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/) 
+[![Xiaomi](https://img.shields.io/badge/Xiaomi%20POCO_F5-%23ff6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/) [![Samsung](https://img.shields.io/badge/Samsung%20Tab_S10_FE-%231726a3.svg?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/) 
 
 </details>
