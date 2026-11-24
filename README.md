@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&cover_image=true&theme=natemoo-re&show_offline=false&background_color=black&interchange=true&bar_color=1ED760&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&redirect=true)
+![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=WSTxda&count=3&radius=0&header=0&profile=off&username=0&avatar=0&stats=compact&loved=off&bg_color=1c2127&text_color=ffffff&artist_color=8a939d&meta_color=6f7780&accent_color=41b851&loved_color=d93936&logo_color=d93936)
 
 [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/WSTxda) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22jg2nzzjqglq2mzjqznopmba?si=1oxx6irkQf-81q4RMkK6mg)
 
